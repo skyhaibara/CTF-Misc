@@ -16,3 +16,5 @@
 得到了这题的答案
 
 ![picture](https://z1.ax1x.com/2023/10/12/piS2hm8.png)
+
+flag{b4se_1s_4_g0od_c0d3}
