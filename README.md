@@ -1,2 +1,6 @@
-# ctf-misc
- processing
+# CTF-Misc
+
+- Main
+
+ ## Helps in better learning
+
