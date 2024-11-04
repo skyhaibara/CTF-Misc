@@ -47,8 +47,9 @@ testdisk : testdisk diskimage.dat
 
 ## Traffic（流量）
 
-1. SMTP
-2. TLS
+#### 1.SMTP
+
+#### 2.TLS
 
 ```RSA
 -----BEGIN RSA PRIVATE KEY-----
@@ -59,7 +60,9 @@ XXXXXXX
 ```
 - wireshark 编辑即可
 
+#### 3.**SMB**+hascat
 
+- 省赛的题目复现，讲一下自己的理解
 
 ## Code（编码）
 
