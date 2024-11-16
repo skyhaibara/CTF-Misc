@@ -210,14 +210,14 @@ fclose(fid);
 
 ```
 
-- fread:从二进制文件读取数据
+- fread : 从二进制文件读取数据
 - inf : 读出fid指向的打开的文件的全部数据
-- imread:读取图像
-- bitset(A,pos,V)：将A以二进制来表示，并将第pos个位置（从右数）， 设置为 V 的值，在将所得到的值转换成10进制数并返回。
-- figure：使用默认属性值创建一个新的图窗窗口
-- subplot：将当前图窗划分为 m×n 网格，并在 p 指定的位置创建坐标区
-- plot(Y) 绘制 Y 对一组隐式 x 坐标的图。
-如果 Y 是向量，则 x 坐标范围从 1 到 length(Y)。
+- imread : 读取图像
+- bitset(A,pos,V) ：将A以二进制来表示，并将第pos个位置（从右数）， 设置为 V 的值，在将所得到的值转换成10进制数并返回。
+- figure ：使用默认属性值创建一个新的图窗窗口
+- subplot ：将当前图窗划分为 m×n 网格，并在 p 指定的位置创建坐标区
+- plot ( Y ) 绘制 Y 对一组隐式 x 坐标的图。
+如果 Y 是向量，则 x 坐标范围从 1 到 length( Y )。
 如果 Y 是矩阵，则对于 Y 中的每个列，图中包含一个对应的行。x 坐标的范围是从 1 到 Y 的行数。
 
 ```Python
@@ -251,3 +251,12 @@ recvall() : 接收到EOF
 recvrepeat(timeout=default) :      接收到EOF或timeout
 interactive() :                    与shell交互
 ```
+
+# 相关工具使用
+
+## basecrack4.0v
+
+```python
+basecrack.py -m 自动化处理
+```
+
