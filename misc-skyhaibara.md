@@ -68,7 +68,7 @@ XXXXXXX
 
 #### 猪圈密码：
 
-![xixi](pic/2.png)
+![](pic/2.png)
 
 - **多类变种**
 
